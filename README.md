@@ -23,6 +23,6 @@ Here is the link to the JSON that I created and hosted on GitHub https://my-json
 
 
 
-![Splash Screen (Light Mode)](https://user-images.githubusercontent.com/64448202/197602060-4140e858-bfb3-4b14-92f8-7170174a9c92.png) | 
+
 
 
