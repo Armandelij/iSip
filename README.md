@@ -5,7 +5,16 @@ Once the user has completed their desired order, they can navigate to the order 
 Users are met with a final view where they can determine their method of payment and decide if they would like to leave
 a tip.
 
-https://user-images.githubusercontent.com/64448202/197599008-7e2ed019-7def-4f53-b131-f488f86979e5.mp4
+
+https://user-images.githubusercontent.com/64448202/197599008-7e2ed019-7def-4f53-b131-f488f86979e5.mp4    
+
+
+Here are some Figma designs 
+
+<img width="908" alt="Screen Shot 2022-10-25 at 7 52 18 PM" src="https://user-images.githubusercontent.com/64448202/197902974-af3e38b1-0aa3-4e96-8f7b-ebe82c02284b.png">
+
+
+
 
 
 Assuming you have Xcode the project is fully functional and ready to download. If you do not have the proper operating
