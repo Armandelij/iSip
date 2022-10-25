@@ -9,7 +9,7 @@ a tip.
 https://user-images.githubusercontent.com/64448202/197599008-7e2ed019-7def-4f53-b131-f488f86979e5.mp4    
 
 
-Here are some Figma designs 
+Here are some Figma designs, you can find the correlating files above. 
 
 <img width="908" alt="Screen Shot 2022-10-25 at 7 52 18 PM" src="https://user-images.githubusercontent.com/64448202/197902974-af3e38b1-0aa3-4e96-8f7b-ebe82c02284b.png">
 
