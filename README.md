@@ -25,7 +25,6 @@ software you will need to download Xcode for an in depth view.
 * SwiftUI
 * Creating and Decoding JSON
 * Error handling
-* Grand Central Dispatch GCD
 * Concurrency 
 * RESTful APIs to connect iOS applications to back-end services.
 Here is the link to the JSON that I created and hosted on GitHub https://my-json-server.typicode.com/Armandelij/mockjson/Coffee 
