@@ -25,7 +25,10 @@ struct Splash_Screen: View {
                     Image("logo")
                     
                     Spacer()
-                    Image("isip")
+                    Text("iSIP")
+                        .font(.title)
+                        .fontWeight(.bold)
+                        .foregroundColor(Color("splash-screen"))
                         .padding(.bottom, 30)
                 }
             }
