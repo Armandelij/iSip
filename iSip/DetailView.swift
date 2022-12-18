@@ -17,17 +17,16 @@ struct DetailView: View {
             .resizable()
             .scaledToFit()
             .cornerRadius(20)
-            .frame(width: 300, height: 400)
+            .frame(width: 250, height: 350)
         
         
-           
+        ScrollView {
             Text(coffee.description)
-                   
                 .padding()
             
             Text(coffee.nutritionFacts)
+        }
                     
-      
         Button("Add to Order") {
             order.add(item: coffee)
         }
