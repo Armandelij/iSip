@@ -1,5 +1,5 @@
-# Skilled Brew 
-> Formaly known as iSip (had to change the name because iSip was taken)
+# Skilled Brew (Pending review in the app store)
+> Formaly known as iSip (had to change the name because iSip was taken in the app store)
 
  iSip is a mobile application that allows users to search through various coffees that they can add to an order.
 Once the user has completed their desired order, they can navigate to the order tab to place their order.
